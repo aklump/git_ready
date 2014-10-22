@@ -32,6 +32,7 @@ git pull --rebase;
 git checkout develop;
 git pull --rebase;
 git checkout $result;
+git status;
 
 result=$(get_branch)
 echo "`tput setaf 2`Welcome back to branch: $result`tput op`"
