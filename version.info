@@ -1,4 +1,4 @@
-name = "Git Ready"
-description = "Switch to master and develop branches and pull from remote in one command."
-version = "0.0.4"
-author = "Aaron Klump <sourcecode@intheloftstudios.com>"
+name = Git Ready
+description = Switch to master and develop branches and pull from remote in one command.
+version = 0.0.5
+author = Aaron Klump <sourcecode@intheloftstudios.com>
